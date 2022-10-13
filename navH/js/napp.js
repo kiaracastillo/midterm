@@ -24,14 +24,14 @@ let home = document.getElementById("home");
 topBox.style.height = "40px";
 topBox.style.width = "100px";
 topBox.style.border = "solid #f5dbbc";
-topBox.style.float = "left";
+
 topBox.style.marginBottom = "10px";
 
 //style contact div 
 contact.style.height ="40px";
 contact.style.width = "100px";
 contact.style.border = "solid #f5dbbc";
-contact.style.float = "left";
+
 contact.style.marginBottom = "10px";
 
 //style menu div 
@@ -45,28 +45,28 @@ menu.style.marginBottom = "10px";
 us.style.height = "40px";
 us.style.width = "100px";
 us.style.border = "solid #f5dbbc";
-us.style.float = "left";
+
 us.style.marginBottom = "10px";
 
 //style services div 
 services.style.height = "40px";
 services.style.width = "100px";
 services.style.border = "solid #f5dbbc";
-services.style.float = "left";
+
 services.style.marginBottom = "10px";
 
 //style donate div 
 donate.style.height = "40px";
 donate.style.width = "100px";
 donate.style.border = "solid #f5dbbc";
-donate.style.float = "left";
+
 donate.style.marginBottom = "10px";
 
 //style home div 
 home.style.height = "40px";
 home.style.width = "100px";
 home.style.border = "solid #f5dbbc";
-home.style.float = "left";
+
 home.style.marginBottom = "10px";
 
  
